@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mirfayz Irgashev
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning Backend
+- 💞️ I’m looking to collaborate on new projects
+- 📫 How to reach me? Telegram @ag_appeal. Instagram @mirfayz2192
