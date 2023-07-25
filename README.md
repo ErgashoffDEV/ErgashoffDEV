@@ -25,8 +25,6 @@
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on many systems and make some web applications.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mirfayz-irgashev-054744210/)
 --- 
 
 :hammer_and_wrench: Languages and Tools :
